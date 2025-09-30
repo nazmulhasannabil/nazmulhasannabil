@@ -3,10 +3,8 @@
  **Phone:** 01881649665  
  **Email:** [nazmulhasannabil4@gmail.com](mailto:nazmulhasannabil4@gmail.com)  
  [LinkedIn](#) | [GitHub](#)  
+ 
 
----
-
-##  Objective  
 I am a recent **Computer Science graduate (BSc in CSE, June 2025)** with a strong interest in becoming a **Frontend Developer**.  
 Eager to contribute to real-world projects, learn from experienced developers, and grow into a professional frontend engineer with strong **UI/UX design skills** through hands-on experience and collaboration.  
 
