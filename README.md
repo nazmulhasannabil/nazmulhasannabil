@@ -5,7 +5,7 @@
  [LinkedIn](#) | [GitHub](#)  
  
 
-I am a recent **Computer Science graduate (BSc in CSE, June 2025)** with a strong interest in becoming a **Frontend Developer**.  
+I am a recent **Computer Science graduate (BSc in CSE, June 2025)** with a strong interest in becoming a **Full-stack Developer**.  
 Eager to contribute to real-world projects, learn from experienced developers, and grow into a professional frontend engineer with strong **UI/UX design skills** through hands-on experience and collaboration.  
 
 ---
